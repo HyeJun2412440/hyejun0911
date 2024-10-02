@@ -1,6 +1,6 @@
 [Project]
-filename=week3(4).dev
-name=week3(4)
+FileName=week3_02.dev
+Name=week3_02
 Type=1
 Ver=2
 ObjFiles=
@@ -28,7 +28,7 @@ Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
-CompilerSettings=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;0;0;0
+CompilerSettings=0000000000000000000000000
 UnitCount=1
 
 [VersionInfo]
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=week3 (4).c
+FileName=Week3_1.c
 CompileCpp=0
 Folder=
 Compile=1

@@ -9,7 +9,7 @@ int factorial(int n){
 
 int combination(int n,int r)
 {
-   return (factorial(n)/factorial(n-r)/factorial(r));
+   return (factorial(n) / (factorial(n-r) * factorial(r)));
 }
 
 int get_integer()

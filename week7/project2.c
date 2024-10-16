@@ -19,7 +19,7 @@ int get_max(int x, int y){
 int main(){
 	int a,b;
 	
-	printf("Enter two integers: ");
+	printf("Enter the integers: ");
 	scanf("%d %d", &a,&b);
 	
 	int sum= sumTwo(a,b);
